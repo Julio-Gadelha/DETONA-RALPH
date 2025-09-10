@@ -35,3 +35,7 @@ justify-content: center;
     align-items: center;
     justify-content: center;
 }
+
+.menu-time h2,.menu-score h2{
+    margin-top: 1rem;
+}
