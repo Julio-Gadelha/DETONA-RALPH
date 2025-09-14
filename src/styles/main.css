@@ -35,7 +35,8 @@ justify-content: center;
     background-color: #7fffd4;
 }
 .enemy{
-    background-image: url("/src/images/ralph.png");
+    background-image: url("../images/ralph.png");
+
     background-size: cover;
 }
 .menu-lives{
